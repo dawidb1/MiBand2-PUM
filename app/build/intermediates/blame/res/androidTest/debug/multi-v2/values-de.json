@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f05d8bbe19a9f2d42a2e956be7b146ad\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2257",
+                        "endColumns": "100",
+                        "endOffsets": "2353"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,289,340,394,450",
+                        "endColumns": "64,50,53,55,96",
+                        "endOffsets": "284,335,389,445,542"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1852,1917,1968,2022,2078",
+                        "endColumns": "64,50,53,55,96",
+                        "endOffsets": "1912,1963,2017,2073,2170"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,2175",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,2252"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f05d8bbe19a9f2d42a2e956be7b146ad\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2257",
+                        "endColumns": "100",
+                        "endOffsets": "2353"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,289,340,394,450",
+                        "endColumns": "64,50,53,55,96",
+                        "endOffsets": "284,335,389,445,542"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1852,1917,1968,2022,2078",
+                        "endColumns": "64,50,53,55,96",
+                        "endOffsets": "1912,1963,2017,2073,2170"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,2175",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,2252"
+                    }
+                }
+            ]
+        }
+    ]
+}
