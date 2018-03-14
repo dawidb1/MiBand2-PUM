@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gadgetbridge
 ============
 
@@ -118,3 +119,11 @@ Feel free to open an issue on our issue tracker, but please:
 
 Alternatively you may use the standard logcat functionality to access the log.
 
+=======
+# MiBand2 PUM
+
+This is mainly code from 
+https://github.com/Freeyourgadget/Gadgetbridge
+
+I would like to use data from Mi Band to my research.
+>>>>>>> df8ebe71ffb18cceee3ffc8d57d3053a626882b8

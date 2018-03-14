@@ -1,42 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\design_tint_password_toggle.xml",
         "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\1ad78c1754382e0018429dd6deb08295\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\color-v23\\abc_tint_switch_track.xml"
     }
 ]

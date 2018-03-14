@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\debug\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\debug\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\values-et\\values-et.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-et\\strings.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-et\\strings.xml",
                     "from": {
                         "startLines": "5,7,6,4,100,41,42,1,33,27,34,35,36,37,28,29,38,39,40,30,31,32,11,13,15,14,12,8,9,17,16,20,19,18,21,10,64,49,50,57,65,81,66,102,112,113,107,106,105,76,77,71,92,104,79,87,86,75,83,78,72,74,73,89,91,98,94,97,96,93,95,85,99,109,110,44,26,46,3,24,48,69,101",
                         "startColumns": "4,4,4,4,4,4,4,11,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\84a5e1b48094c54d1ff23be80cea00ad\\res\\values-et\\values-et.xml",
@@ -79,7 +79,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-et\\strings.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-et\\strings.xml",
                     "from": {
                         "startLines": "5,7,6,4,100,41,42,1,33,27,34,35,36,37,28,29,38,39,40,30,31,32,11,13,15,14,12,8,9,17,16,20,19,18,21,10,64,49,50,57,65,81,66,102,112,113,107,106,105,76,77,71,92,104,79,87,86,75,83,78,72,74,73,89,91,98,94,97,96,93,95,85,99,109,110,44,26,46,3,24,48,69,101",
                         "startColumns": "4,4,4,4,4,4,4,11,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

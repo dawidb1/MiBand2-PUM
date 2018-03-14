@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\debug\\values-uk\\values-uk.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-uk\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-uk\\strings.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-uk\\strings.xml",
                     "from": {
                         "startLines": "231,232,94,213,215,214,216,5,113,238,6,4,223,225,226,227,224,186,228,165,161,166,167,160,164,162,163,62,116,27,106,2,128,22,23,24,25,26,18,19,20,21,109,99,98,135,130,175,100,170,202,92,91,155,154,239,12,14,13,11,7,9,174,158,8,10,173,230,229,217,114,129,112,111,122,105,33,32,188,192,221,101,108,134,103,104,176,179,189,102,124,209,212,208,211,210,203,121,118,34,38,35,190,220,191,127,126,131,172,146,137,107,64,90,182,183,181,180,123,178,177,193,196,194,195,66,46,72,47,69,41,81,54,65,132,148,149,151,152,153,150,147,138,49,206,78,207,85,87,80,52,51,45,67,68,48,70,205,77,42,44,43,219,53,82,83,61,56,59,58,55,57,73,84,86,88,71,74,75,76,79,50,89,60,119,120,125,136,184,95,96,97,236,237,159,115,29,17,156,3,15,110,31,117,157,40,133,234,93,198,199,200,197,201,187,218,171,168,169,145,142,141,144,140,139,143,222,204,185,63",
                         "startColumns": "2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\debug\\values-uk\\values-uk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-uk\\values.xml",
@@ -96,7 +96,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-uk\\strings.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-uk\\strings.xml",
                     "from": {
                         "startLines": "231,232,94,213,215,214,216,5,113,238,6,4,223,225,226,227,224,186,228,165,161,166,167,160,164,162,163,62,116,27,106,2,128,22,23,24,25,26,18,19,20,21,109,99,98,135,130,175,100,170,202,92,91,155,154,239,12,14,13,11,7,9,174,158,8,10,173,230,229,217,114,129,112,111,122,105,33,32,188,192,221,101,108,134,103,104,176,179,189,102,124,209,212,208,211,210,203,121,118,34,38,35,190,220,191,127,126,131,172,146,137,107,64,90,182,183,181,180,123,178,177,193,196,194,195,66,46,72,47,69,41,81,54,65,132,148,149,151,152,153,150,147,138,49,206,78,207,85,87,80,52,51,45,67,68,48,70,205,77,42,44,43,219,53,82,83,61,56,59,58,55,57,73,84,86,88,71,74,75,76,79,50,89,60,119,120,125,136,184,95,96,97,236,237,159,115,29,17,156,3,15,110,31,117,157,40,133,234,93,198,199,200,197,201,187,218,171,168,169,145,142,141,144,140,139,143,222,204,185,63",
                         "startColumns": "2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

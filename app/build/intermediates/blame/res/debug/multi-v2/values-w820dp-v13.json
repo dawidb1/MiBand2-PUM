@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

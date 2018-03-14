@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\debug\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-sk\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\debug\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-1.2.2.aar\\a9e89de8c739401ce1d1137dc2ff2ad6\\res\\values-sk\\values.xml",

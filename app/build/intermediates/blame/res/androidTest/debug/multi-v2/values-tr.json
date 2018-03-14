@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f05d8bbe19a9f2d42a2e956be7b146ad\\res\\values-tr\\values-tr.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\Gadgetbridge-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\Dawid\\OneDrive\\Documents\\STUDIA Onedrive\\SEMESTR6\\PUM proj\\Gadgetbridge-master\\MiBand2-PUM\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Dawid\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f05d8bbe19a9f2d42a2e956be7b146ad\\res\\values-tr\\values-tr.xml",
